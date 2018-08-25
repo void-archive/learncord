@@ -1,3 +1,5 @@
+![](https://imgur.com/jfVhVNd.png)
+
 # Learncord
 Learncord is a bot for [Discord](https://discord.com) that teaches a wide variety of topics. Think of Udemy but in Discord, as a bot.
 
