@@ -1,7 +1,7 @@
 # Learncord
 Learncord is a bot for [Discord](https://discord.com) that teaches a wide variety of topics. Think of Udemy but in Discord, as a bot.
 
-Made with <3 by [@missingbinaries](https://github.com/missingbinaries) and [@Jacob-Noah](https://github.com/Jacob-Noah)
+Made with ❤ by [@missingbinaries](https://github.com/missingbinaries) and [@Jacob-Noah](https://github.com/Jacob-Noah)
 
 ## Additional info
 Learncord's invite, support server, website (, etc, etc) can be found here. Anything that isn't here isn't affiliated with us.
