@@ -1,4 +1,6 @@
-![](https://imgur.com/jfVhVNd.png)
+<div id="logo" align="center">
+    <img src="https://imgur.com/jfVhVNd.png" alt="Learncord Logo" />
+</div>
 
 # Learncord
 
